@@ -27,25 +27,22 @@ Learning Data Analysis on Udacity is a worthwhile venture. Among the things that
 
 #### Research Question 1 (Which breed got the highest rating on average?)
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/103776681/188330107-6cca6399-98cb-4533-9254-fc07c37b0396.png)
 
 #### Research Question 2  (What stage of dog is popular posted?)
-
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/103776681/188330142-bb8ae6e3-61c6-4770-b343-c4bf84a95c34.png)
 
 #### Research Question 3 (Are high or low rates associated with particular breeds?)
-
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/103776681/188330248-9fb3abdf-3429-43a7-b7ce-627f2cfc6e82.png)
 
 #### Research Question 4 (Which breed has the highest number of occurrence in the twitter archive?)
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/103776681/188330265-576fb901-9c49-44ba-8de8-bf042b671313.png)
 
 #### Research Question 5 (Which breed got the highest number of retweets and favorites on average?)
+![image](https://user-images.githubusercontent.com/103776681/188330291-2a330308-772a-45d4-b351-46a3fb3fe24a.png)
 
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/103776681/188330305-52a3ee5b-52b5-4ed0-9c7c-ae3469454d62.png)
 
 <a id='conclusions'></a>
 ## Conclusions
